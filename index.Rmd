@@ -1,0 +1,22 @@
+---
+output: html_document
+pagetitle: Preston's_Amazing_Website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,warning = FALSE,messsage = FALSE)
+
+library(tidyverse)
+
+```
+
+Here's my website!
+
+```{r fig.align='center',fig.width=5,fig.height=5}
+knitr::include_graphics("./media/guitar.jpg")
+```
+
+
+
+
+
