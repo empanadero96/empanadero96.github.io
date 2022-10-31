@@ -17,6 +17,12 @@ knitr::include_graphics("./media/guitar.jpg")
 ```
 
 
+## Here's some links
+
+[About me!](https://empanadero96.github.io/aboutme/)
+
+[My CV](https://empanadero96.github.io/aboutme/CV.pdf)
+
 
 
 
